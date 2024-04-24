@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Flame Designs"];
+const statusMessages = ["Watching /help"];
 
 
 let currentIndex = 0;
